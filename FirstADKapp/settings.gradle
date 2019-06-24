@@ -1,0 +1,6 @@
+
+ //hich aggregates all the module projects to be used in current build process:
+rootProject.name = 'FirstADKapp'
+
+// Include modules
+include "modules:axelor-contact"

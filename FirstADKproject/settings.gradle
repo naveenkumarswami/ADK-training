@@ -1,0 +1,2 @@
+rootProject.name = 'FirstADKproject'
+include "modules:axelor-contact" //tells gradle to include the module axelor-contact in current build cycle. It is required to list all the modules in settings.gradle file.
